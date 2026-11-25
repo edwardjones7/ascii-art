@@ -36,7 +36,7 @@ if RECORD:
 pygame.init()
 screen = pygame.display.set_mode((W, H))
 pygame.display.set_caption("bloom3d.py")
-font = pygame.font.SysFont("consolas", FONT_SIZE, bold=True)
+font = pygame.font.SysFont("consolas,menlo,dejavusansmono,liberationmono,couriernew", FONT_SIZE, bold=True)
 cw, ch = font.size("M")
 COLS, ROWS = W // cw, H // ch
 
