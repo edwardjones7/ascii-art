@@ -318,7 +318,7 @@ def main():
         if RECORD:
             pygame.image.save(screen, f"{OUT_DIR}/f_{frame:04d}.png")
             if frame + 1 >= int(DURATION * FPS_RECORD):
-                print("@edjonesai")
+                print("@edjonesv")
                 pygame.quit()
                 return
         else:
