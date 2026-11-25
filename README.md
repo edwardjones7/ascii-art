@@ -10,8 +10,8 @@ with a folder for each piece.
 
 ## Get all of them
 
-    git clone https://github.com/edwardjones7/flower-ascii-art.git
-    cd flower-ascii-art
+    git clone https://github.com/edwardjones7/ascii-art.git
+    cd ascii-art
     pip install -r requirements.txt
 
 ## Run
