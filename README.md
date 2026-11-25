@@ -12,7 +12,7 @@ download and run.
 
 ## Want to make your own? Get the Code Art Pack
 
-[![Eight 3D animations: jellyfish, galaxy, heart, planet, DNA, koi, flower and butterfly, drawn in ASCII characters](assets/code-art-pack.png)](https://whop.com/thefrontier/code-art-pack-ascii-animations-in-python)
+[![Eight 3D animations: jellyfish, galaxy, heart, planet, DNA, koi, flower and butterfly, drawn in ASCII characters](assets/code-art-pack-cover.png)](https://whop.com/thefrontier/code-art-pack-ascii-animations-in-python)
 
 **[Get the Code Art Pack: $19, one-time](https://whop.com/thefrontier/code-art-pack-ascii-animations-in-python)**
 
