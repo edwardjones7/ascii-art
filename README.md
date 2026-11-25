@@ -12,17 +12,17 @@ download and run.
 
 ## Want to make your own? Get the Code Art Pack
 
-[![Jellyfish, galaxy, heart and butterfly drawn in ASCII characters](assets/code-art-pack.png)](https://whop.com/thefrontier/code-art-pack-ascii-animations-in-python)
+[![Eight 3D animations: jellyfish, galaxy, heart, planet, DNA, koi, flower and butterfly, drawn in ASCII characters](assets/code-art-pack.png)](https://whop.com/thefrontier/code-art-pack-ascii-animations-in-python)
 
 **[Get the Code Art Pack: $19, one-time](https://whop.com/thefrontier/code-art-pack-ascii-animations-in-python)**
 
 | | Free, here | Code Art Pack |
 | --- | :---: | :---: |
 | Bloom and Butterfly | Yes | Yes |
-| Jellyfish, Galaxy and Heart | | Yes |
+| Jellyfish, Galaxy, Heart, Planet, DNA and Koi | | Yes |
 | Interactive notebook with live demos | | Yes |
 | Builder that writes a Python file from your choices | | Yes |
-| Walkthroughs of all five pieces | | Yes |
+| Walkthroughs of all eight pieces | | Yes |
 | Starter template and guides | | Yes |
 | One-command video export, including 1080x1920 vertical | | Yes |
 | Free updates as new pieces are added | | Yes |
