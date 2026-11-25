@@ -1,5 +1,7 @@
 # ASCII art
 
+![A pink flower made of text characters blooms, then blows away](assets/bloom.gif)
+
 Animated 3D ASCII art, made with Python, numpy and pygame. The pieces here are free to
 download and run.
 
@@ -35,8 +37,8 @@ You can post, monetize and sell the videos you make with the pack. You need Pyth
     python bloom/bloom3d.py
     python butterfly/butterfly.py
 
-Space restarts, Esc quits. Uses the Consolas font (included with Windows).
-Other systems may fall back to another font, so the look can differ.
+Space restarts, Esc quits. Uses Consolas on Windows, Menlo on Mac and DejaVu Sans Mono or
+Liberation Mono on Linux, so the look varies a little between systems.
 
 ## Export a video (needs ffmpeg)
 
@@ -47,5 +49,11 @@ Add `--record` to save the frames, then turn them into a video:
 
     python butterfly/butterfly.py --record
     ffmpeg -framerate 30 -i frames/f_%04d.png -c:v libx264 -pix_fmt yuv420p butterfly.mp4
+
+## License
+
+The free code in this repo is under the [MIT License](LICENSE). The Code Art Pack is sold
+separately under its own terms, included with the download. The preview image of the pack isn't
+covered by the MIT License.
 
 By @edjonesv
